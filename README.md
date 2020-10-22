@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Looking for something to work on!`
 - 🌱 I’m currently learning `C# Design Patterns`
