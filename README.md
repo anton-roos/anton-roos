@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with `Nothing`
 - 💬 Ask me about `PHP or any PHP Framework`
 - 📫 How to reach me: <a href="https://antonroos.co.za">antonroos.co.za</a>
-- 😄 Pronouns: `Call me whatever you'd like I am not one of those people`
 - ⚡ Fun fact: `Lenovo ThinkPad is the only laptop allowed on the International Space Station`
