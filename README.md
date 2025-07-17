@@ -5,7 +5,7 @@
 ---
 
 ### 💼 About Me
-I'm a passionate and driven AI Technical Lead at Hollard Insure, based in South Africa. With a strong background in software engineering, I specialize in building reliable, scalable AI solutions that blend intelligent automation with real-world business impact.
+I'm a passionate and driven AI Technical Lead in the insure sector, based in South Africa. With a strong background in software engineering, I specialize in building reliable, scalable AI solutions that blend intelligent automation with real-world business impact.
 
 My mission is to craft meaningful, high-quality software systems that solve complex problems. I mainly focius on building AI-powered agents, integrating them with modern platforms like WhatsApp, or orchestrating deployments across cloud-native infrastructure.
 
